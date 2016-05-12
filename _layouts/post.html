@@ -11,17 +11,14 @@
 
     <header id="hero" style="background-image: url({{site.data.settings.images.hero_image_path}}); background-color: {{site.data.settings.images.hero_background_hex}}">
       <div class="container">
-        <div class="row title">
-          <!-- logo -->
-          <div class="two columns">
-            <a href="/"><img src="{{site.data.settings.images.hero_logo_path}}" alt="{{site.data.settings.client.company}}" class="site-logo"></a>
-          </div>
           <!--site title-->
-          <div class="ten columns">
-            <a href="/"><h2 class="site-title">{{site.data.settings.title}}</h2></a>
-          </div>
+          <div class="row">
+            <div class="twelve columns">
+              <a href="/"><h2 class="site-title">{{site.data.settings.title}}</h2></a>
+            </div>
           </div>
           <div class="row" itemscope itemtype="http://schema.org/BlogPosting">
+            <div class="twelve columns">
             <!-- title -->
             <a href="{{page.url | prepend: site.url}}"><h1 class="post-title" itemprop="name headline">{{page.title}}</h1></a>
             <time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished" style="display: none;">{{ page.date | date: "%b %-d, %Y" }}</time>

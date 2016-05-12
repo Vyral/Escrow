@@ -1,16 +1,5 @@
 //For individual theme fixes. You know all about it.
 #hero
-  background-position: center
-
-.about .headshot
-  @include transform(rotate(15deg))
-
-.post .headshot
-  @include transform(rotate(15deg))
-  &:hover
-    @include transform(rotate(15deg) + scale(0.9))
-
-
-@media (min-width: 550px)
-  #hero
-    background-position: center -100px
+  +display(flex)
+  +align-items(center)
+  +align-content(center)

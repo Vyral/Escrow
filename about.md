@@ -5,6 +5,12 @@ permalink: /about/
 in_nav: true
 ---
 
-Durwin began his real estate career at a very early age and worked tirelessly to become an expert in the San Francisco housing market, focusing heavily on higher-end properties for connoisseurs of excellence. His expertise has allowed him to act as a formidable advocate for clients seeking top-quality housing. From showings to inspections and reports to closings, Durwin's vast and broad understanding of every aspect of upper-tier properties enable him to deliver the absolute best services to his clients. To date, he has a track record of over $80 million in sales and received a Top 1% Agent Award on Trulia. Durwin was recently chosen as a 2015 Five Star Real Estate Agent award winner! He will be featured in San Francisco Magazine's November issue.
 
-Durwin began his real estate career at a very early age and worked tirelessly to become an expert in the San Francisco housing market, focusing heavily on higher-end properties for connoisseurs of excellence. His expertise has allowed him to act as a formidable advocate for clients seeking top-quality housing. From showings to inspections and reports to closings, Durwin's vast and broad understanding of every aspect of upper-tier properties enable him to deliver the absolute best services to his clients. To date, he has a track record of over $80 million in sales and received a Top 1% Agent Award on Trulia. Durwin was recently chosen as a 2015 Five Star Real Estate Agent award winner! He will be featured in San Francisco Magazine's November issue.
+
+Scott Hudspeth is always one step ahead of the curve.
+
+As CEO and founder of Agent Mastermind which has become the largest online weekly Real Estate training in the nation. Agent Mastermind has members in every U.S. state and Canada with 600-1000 in attendance every single week. Scott is also in charge of recruiting, growth, and development at Success Mortgage Partners, Scott Hudspeth is the master of time management and entrepreneurship.
+
+<div style="max-width: 800px; margin: 0 auto;">
+<iframe width="230" height="129" src="https://www.youtube.com/embed/jl0RswE68WY" frameborder="0" allowfullscreen></iframe>
+</div>

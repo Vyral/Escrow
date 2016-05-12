@@ -1,4 +1,4 @@
-FILES_TO_CONVERT_GLOB = "blogger/blogger-posts/*.html"
+FILES_TO_CONVERT_GLOB = "_posts/_posts/*.html"
 WRAP_LENGTH = 80
 TO_REPLACE = {
   "<br />" => "\n",

@@ -28,12 +28,12 @@ $(function(){
 //         if(t<0)t=0;
 //         $('#hero').css({opacity: t});
 //     })
-
+// Modal Controls
 $('#contact').click(function(){
 	$('.modal-wrapper').show();
 });
 
-$('.exit').click(function(){
+$('.exit','.modal-wrapper').click(function(){
 	$('.modal-wrapper').hide();
 });
 
