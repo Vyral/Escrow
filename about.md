@@ -16,7 +16,7 @@ As CEO and founder of Agent Mastermind which has become the largest online weekl
 
 ## What Other Lenders are Saying!&nbsp;
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mjPSwE0Gj3k" frameborder="0" allowfullscreen></iframe>
+<div style="max-width: 800px; margin: 0 auto;"><div class="fluid-vids" style="width: 100%; position: relative; padding-top: 56.087%;"><iframe width="560" height="315" src="https://www.youtube.com/embed/mjPSwE0Gj3k" frameborder="0" allowfullscreen></iframe>
 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RAk_2jjOMa0" frameborder="0" allowfullscreen></iframe>
+<div style="max-width: 800px; margin: 0 auto;"><div class="fluid-vids" style="width: 100%; position: relative; padding-top: 56.087%;"><iframe width="560" height="315" src="https://www.youtube.com/embed/RAk_2jjOMa0" frameborder="0" allowfullscreen></iframe>
