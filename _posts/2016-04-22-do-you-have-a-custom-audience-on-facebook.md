@@ -7,6 +7,7 @@ tags:
 modified_time:
 image: /scott.hudspeth.screenshot.4.22.jpg
 excerpt: 'Did you catch my class where I taught you how to stay in front of your past clients, current clients, and future clients for 2-3 hours per day on Facebook? If not, then let me explain again.'
+pullquote: 
 ---
 
 <iframe allowfullscreen="" frameborder="0" height="270"
