@@ -9,7 +9,7 @@ tags:
   - Home Seller Tips
 excerpt: 'Did you catch the Pinterest class where we shared how to connect, engage, and interact with your current and past database?'
 enclosure: '<iframe allowfullscreen="" frameborder="0" height="270" src="https://www.youtube.com/embed/6gDilUo2tjo" width="480"></iframe>'
-pullquote: '"Pinterest lets you share your passions and lets others join."'
+pullquote: 'Pinterest lets you share your passions and lets others join.'
 enclosure_type: video/mp4
 enclosure_time:
 image: /scott.hudspeth.6.29.y.jpg
