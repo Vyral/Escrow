@@ -12,7 +12,7 @@ enclosure: '<iframe allowfullscreen="" frameborder="0" height="270" src="https:/
 pullquote: '"Pinterest lets you share your passions and lets others join."'
 enclosure_type: video/mp4
 enclosure_time:
-image:
+image: /scott.hudspeth.6.29.y.jpg
 ---
 
 
